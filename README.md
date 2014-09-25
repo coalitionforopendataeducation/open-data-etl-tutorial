@@ -1,7 +1,5 @@
 # Open Data ETL Tutorial
 
-This repository
-
 ## Instructions
 
 ### Extract Data
